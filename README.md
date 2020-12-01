@@ -16,6 +16,9 @@ This is a simple web project, deployment can be on any web server oreven local f
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull requests for review.
+
+
 ###Copyright
 
 2014 Git.Training.
