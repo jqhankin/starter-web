@@ -15,3 +15,7 @@ As stated above, the main purpose is to provie siimple examples for Git training
 This is a simple web project, deployment can be on any web server oreven local file system.
 
 ## How to Contribute
+
+###Copyright
+
+2014 Git.Training.
